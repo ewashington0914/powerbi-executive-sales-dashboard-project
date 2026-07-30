@@ -22,11 +22,17 @@ Methodology
 Skills
 Power BI: Power Query (ETL), Data Cleaning, Data Transformation, Data Modeling, DAX Measures, Calculated columns, Data visualization
 
+
+Dashboard Preview
+<img width="2078" height="1168" alt="Screenshot 2026-07-29 203949" src="https://github.com/user-attachments/assets/176ee35f-1c4c-455a-960b-c22c804ecce5" />
+
+
+
 Results
 
 Regional Performance
 Graphic
-The Northwest region led in sales with $845K, more than double those of Mexico Central ($330K) and the Southwest ($319K). Canada West and the remaining Mexican regions generated considerably less revenue, while Central West underperformed significantly at just $9K.
+The Northwest region led in sales with $845K, more than double that of Mexico Central ($330K) and the Southwest ($319K). Canada West and the remaining Mexican regions generated considerably less revenue, while Central West underperformed significantly at just $9K.
 
 Top Product Categories by Revenue
 Graphic
