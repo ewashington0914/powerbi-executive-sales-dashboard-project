@@ -1,0 +1,77 @@
+# DAX Measures
+
+This file contains the primary DAX measures used in the Executive Sales Dashboard.
+
+---
+
+Measure 1: Total Revenue
+
+Calculates total sales revenue.
+
+Total Revenue =
+SUMX(
+    Sales,
+    Sales[Quantity] * Sales[Unit Price]
+)
+
+---
+  
+Measure 2: Total Orders
+
+Calculates the number of unique orders.
+
+Total Orders =
+DISTINCTCOUNT(Sales[Order ID])
+
+---
+Measure 3: Total Customers
+
+Calculates the number of unique customers.
+  
+Total Customers =
+DISTINCTCOUNT(Sales[Customer ID])
+
+  
+---
+
+Measure 4: Total Units Sold
+
+Calculates the total quantity of products sold.
+  Total Units Sold =
+SUM(Sales[Quantity])
+
+---
+
+Measure 5: Average Order Value
+
+Calculates average revenue generated per order.
+  Average Order Value =
+DIVIDE(
+    [Total Revenue],
+    [Total Orders],
+    0
+)
+
+---
+
+Measure 6: Previous Year Revenue
+
+Calculates total revenue for the previous year.
+  Previous Year Revenue =
+CALCULATE(
+    [Total Revenue],
+    SAMEPERIODLASTYEAR('Date'[Date])
+)
+
+---
+Measure 7: Revenue Year-over-Year Growth
+
+Calculates the percentage change in revenue compared with the previous year.
+Revenue YoY Growth % =
+DIVIDE(
+    [Total Revenue] - [Previous Year Revenue],
+    [Previous Year Revenue],
+    0
+)
+  
+  
