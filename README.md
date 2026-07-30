@@ -1,5 +1,5 @@
 
-Executive Summary
+##Executive Summary
 AdventureWorks Cycles lacked a overview of business performance, making it difficult for leadership to monitor sales, compare regional results, identify top-performing products, and recognize high-value customers. Using Power BI, I developed an interactive executive dashboard that shows key business metrics.
 
 ## Live Power BI Dashboard
