@@ -52,9 +52,11 @@ Hermanos generated the highest product-brand revenue at $57K, followed by Tell T
 
 
 
+
 Top Products by Revenue
 Hermanos Green Pepper generated the highest product revenue at $2,490, followed closely by Hilltop Mint Mouthwash ($2,447) and Carlson Head Cheese ($2,418). Revenue among the top-performing products was highly consistent, with less than $200 separating the top 10 products, indicating a balanced contribution across the leading products.
 <img width="1572" height="452" alt="top 10 product revenue" src="https://github.com/user-attachments/assets/7a121781-9399-4942-bd45-302db80efdbb" />
+
 
 
 
