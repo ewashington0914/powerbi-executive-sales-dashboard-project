@@ -30,7 +30,12 @@ Power BI: Power Query (ETL), Data Cleaning, Data Transformation, Data Modeling, 
 Dashboard Preview
 Page 1
 
+
+
 <img width="2078" height="1168" alt="Screenshot 2026-07-29 203949" src="https://github.com/user-attachments/assets/176ee35f-1c4c-455a-960b-c22c804ecce5" />
+
+
+
 Dashboard Preview Page 2
 <img width="2137" height="1215" alt="pag2 " src="https://github.com/user-attachments/assets/cac3ff94-9f20-4be0-ac74-713cfcc7bdb8" />
 
