@@ -48,6 +48,8 @@ Revenue remained relatively stable throughout most of the year, ranging between 
 
 Top Product Categories by Revenue
 Hermanos generated the highest product-brand revenue at $57K, followed by Tell Tale at $51K and Ebony at $50K. Overall, revenue was distributed fairly evenly across the top brands, with only a $17K difference between the highest- and lowest-performing brands.
+
+
 <img width="754" height="435" alt="revenue by product category" src="https://github.com/user-attachments/assets/d8d13065-9357-42c9-9fd9-3f38660373e3" />
 
 
