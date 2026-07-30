@@ -8,6 +8,7 @@ I recommend the following:
 
 
 Business Problem
+
 Leadership at AdventureWorks Cycles spends too much time compiling reports from multiple data sources and lacks timely visibility into company performance. Management a single source for tracking KPIs, comparing regional sales, analyzing product performance, and identifying high-value customers.
 
 Methodology
