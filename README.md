@@ -27,8 +27,10 @@ Skills:
 Power BI: Power Query (ETL), Data Cleaning, Data Transformation, Data Modeling, DAX Measures, Calculated columns, Data visualization
 
 
-Dashboard Preview
+Dashboard Preview Executive Overview
 Page 1
+The executive overview provides a high-level summary of revenue, orders, and sales trends. It allows stakeholders to quickly evaluate overall business performance.
+
 
 
 
@@ -36,7 +38,9 @@ Page 1
 
 
 
-Dashboard Preview Page 2
+Dashboard Preview Page 2 Product Analysis 
+The product analysis highlights top-performing products, categories, and their contribution to total revenue.
+
 <img width="2137" height="1215" alt="pag2 " src="https://github.com/user-attachments/assets/cac3ff94-9f20-4be0-ac74-713cfcc7bdb8" />
 
 
