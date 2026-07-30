@@ -42,7 +42,7 @@ Page 2
 Results:
 Revenue Over Time
 
-The Northwest region led in sales with $845K, more than double that of Mexico Central ($330K) and the Southwest ($319K). Canada West and the remaining Mexican regions generated considerably less revenue, while Central West underperformed significantly at just $9K.
+Revenue remained relatively stable throughout most of the year, ranging between approximately $135K and $150K per month. Sales strengthened in the fourth quarter, with revenue increasing in November ($164.6K) and reaching its highest level in December ($169.3K), indicating a strong year-end sales surge
 <img width="1618" height="340" alt="revenue over time" src="https://github.com/user-attachments/assets/53af764d-19de-40c1-864a-fb583907c3e5" />
 
 
